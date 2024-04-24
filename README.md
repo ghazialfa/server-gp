@@ -1,0 +1,2 @@
+# chatify-server
+server chatify
